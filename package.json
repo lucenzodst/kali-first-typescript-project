@@ -10,5 +10,8 @@
     "kali"
   ],
   "author": "lucenzodst",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url":"https://github.com/lucenzodst/kali-first-typescript-project"
+  }
 }
